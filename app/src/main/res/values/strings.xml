@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">BMO</string>
+    <string name="title">Bienvenido BMO</string>
+    <string name="buttonIzquierda">Izquierda</string>
+    <string name="buttonDerecha">Derecha</string>
+    <string name="buttonAtras">Atrás</string>
+    <string name="buttonAdelante">Adelante</string>
+    <string name="buttonDetener">Detener</string>
+    <string name="please_wait">Por favor espere...</string>
+
+</resources>
